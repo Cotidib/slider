@@ -8,5 +8,4 @@ This is my version of the Slider project in ['Code 15 React Projects' course by 
 The main React functionalities I learned are how to create a horizontal slider display with an auto-slide functionality and conditional rendering. I made my own setup and styling.
 
 ### Live Site
-
-
+https://constanzas-slider-demo.netlify.app/

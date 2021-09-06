@@ -44,7 +44,7 @@ function App() {
             }
 
 
-            return <article className={position} key={index}>
+            return <article className={position} key={id}>
               <img src={image} alt={name}/>
               <h4>{name}</h4>
               <p className='title'>{title}</p>

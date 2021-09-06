@@ -3,7 +3,7 @@ import data from './data';
 import { FiChevronRight, FiChevronLeft } from 'react-icons/fi';
 
 function App() {
-  const [people, setPeople] = useState(data);
+  const [people] = useState(data);
   const [currentIndex, setCurrentIndex] = useState(0);
 
   useEffect( ()=>{
